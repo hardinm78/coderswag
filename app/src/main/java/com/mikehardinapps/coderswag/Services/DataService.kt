@@ -4,8 +4,8 @@ import com.mikehardinapps.coderswag.Model.Category
 import com.mikehardinapps.coderswag.Model.Product
 
 /**
- * Created by michaelhardin on 11/28/17.
- */
+* Created by michaelhardin on 11/28/17.
+*/
 object DataService {
 
     val categories = listOf(
